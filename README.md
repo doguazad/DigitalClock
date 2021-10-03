@@ -1,2 +1,5 @@
-# DigitalClock
-A digital clock created with Html CSS and JavaScript languages. || Html Css ve JavaScript dilleri ile oluşturulmuş dijital bir saat.
+# What Does It Do ? ||Ne İşe Yarar ? 
+
+With this program, you can follow the global time instantly. || Bu yazılım ile  global saati anlık olarak takip edebilirsiniz
+
+
